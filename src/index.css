@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.dark-heading {
+  background-color: #6c757d; /* Adjust the color code for your preferred darker shade */
+  color: white; /* Ensures text is readable on the darker background */
+}
+.thead-dark{
+color: white;
+background-color: #101112fd;
+}
+
+.greyish-row {
+  background-color: #f2f2f2; /* Change this to your desired grey color */
+}
